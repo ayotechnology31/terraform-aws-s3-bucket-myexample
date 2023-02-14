@@ -1,1 +1,1 @@
-# terraform-aws_s3_bucket-myexample
+# terraform-aws-s3-bucket-myexample
